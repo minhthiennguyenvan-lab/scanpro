@@ -1,0 +1,17 @@
+{
+  "name": "Scan Pro – Quét tài liệu",
+  "short_name": "Scan Pro",
+  "description": "Quét giấy tờ thành PDF: tự nhận viền, làm trắng nền, ký tên, CCCD 2 mặt.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
